@@ -40,8 +40,8 @@ public class extractLatLng extends Thread{
 //        ArrayList<String> arr=new ArrayList<String>();
 //        try
 //        {
-//            url = new URL("https://maps.googleapis.com/maps/api/geocode/json?address="+placeName+"&key=AIzaSyBiISQ-hgIi1AL07xCc_zIm9Za4NJEGrHE");
-//            String u="https://maps.googleapis.com/maps/api/geocode/json?address="+placeName+"&key=AIzaSyBiISQ-hgIi1AL07xCc_zIm9Za4NJEGrHE";
+//            url = new URL("https://maps.googleapis.com/maps/api/geocode/json?address="+placeName+"&key=ADD_YOUR_API_KEY_HERE");
+//            String u="https://maps.googleapis.com/maps/api/geocode/json?address="+placeName+"&key=ADD_YOUR_API_KEY_HERE";
 //            connection = (HttpURLConnection) url.openConnection();
 //            connection.setRequestMethod("GET");
 //            connection.connect();
